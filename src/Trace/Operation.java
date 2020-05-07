@@ -8,6 +8,7 @@ import java.*;
 public class Operation implements Serializable {
 
     private Calcul calcul;
+    public static String fileName = "trace.txt";
 
     public Operation(Calcul calcul)
     {
@@ -32,7 +33,7 @@ public class Operation implements Serializable {
     {
         SetAll(op,opg,opd,res);
         try {
-            FileOutputStream fileOut = new FileOutputStream(new File("trace.txt"));
+            FileOutputStream fileOut = new FileOutputStream(new File(Operation.fileName));
             ObjectOutputStream objectOut = new ObjectOutputStream(fileOut);
             objectOut.writeObject(getCalcul());
             objectOut.close();
@@ -47,9 +48,9 @@ public class Operation implements Serializable {
     {
         Calcul calcul = null;
         try {
-            FileInputStream fileInput = new FileInputStream(new File("trace.txt"));
+            FileInputStream fileInput = new FileInputStream(new File(Operation.fileName));
             ObjectInputStream oi = new ObjectInputStream(fileInput);
-             calcul = (Calcul) oi.readObject();
+            calcul = (Calcul) oi.readObject();
             oi.close();
             fileInput.close();
         } catch (Exception ex) {

@@ -10,5 +10,6 @@ public class MainTrace {
 
         Calcul calcul2 = (Calcul)operation.lireOp();
         System.out.println(calcul2.getOp());
+
     }
 }

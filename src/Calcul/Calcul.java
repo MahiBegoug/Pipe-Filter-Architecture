@@ -31,10 +31,11 @@ public class Calcul implements Serializable {
         this.res=res;
     }
 
-    public char getOp()
-    {
-        return this.op;
-    }
+    public char getOp(){return this.op;}
+    public int getOpg(){return this.opg;}
+    public int getOpd(){return this.opd;}
+    public int getRes(){return this.res;}
+
 
     public Operation getTrace()
     {
@@ -64,6 +65,5 @@ public class Calcul implements Serializable {
         this.getTrace().savop('f',x,0,r);
         return (r);
     }
-
 
 }

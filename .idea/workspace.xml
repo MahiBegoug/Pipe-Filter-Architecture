@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab8017bc-08c6-4e8c-9c83-b0ccbc252f5d" name="Default Changelist" comment="" />
+    <list default="true" id="ab8017bc-08c6-4e8c-9c83-b0ccbc252f5d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calcul/Calcul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calcul/Calcul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calcul/MainCalcul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calcul/MainCalcul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trace/MainTrace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trace/MainTrace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trace.txt" beforeDir="false" afterPath="$PROJECT_DIR$/trace.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bY2XulZR7wOI6P5AKBxuCMFIyZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +33,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="inlay.hints" />
   </component>
-  <component name="RunManager" selected="Application.MainTrace">
+  <component name="RunManager" selected="Application.MainCalcul">
     <configuration name="MainCalcul" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calcul.MainCalcul" />
       <module name="AlogTp" />
@@ -66,9 +78,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainCalcul" />
         <item itemvalue="Application.MainTrace" />
         <item itemvalue="Application.MainGUI" />
-        <item itemvalue="Application.MainCalcul" />
       </list>
     </recent_temporary>
   </component>
@@ -98,21 +110,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1320" height="310" key="GridCell.Tab.0.bottom" timestamp="1588810061152">
+    <state width="1320" height="310" key="GridCell.Tab.0.bottom" timestamp="1588810754273">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
-    <state width="1320" height="310" key="GridCell.Tab.0.bottom/0.0.1366.741@0.0.1366.741" timestamp="1588810061152" />
-    <state width="1320" height="310" key="GridCell.Tab.0.center" timestamp="1588810061151">
+    <state width="1320" height="310" key="GridCell.Tab.0.bottom/0.0.1366.741@0.0.1366.741" timestamp="1588810754273" />
+    <state width="1320" height="310" key="GridCell.Tab.0.center" timestamp="1588810754272">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
-    <state width="1320" height="310" key="GridCell.Tab.0.center/0.0.1366.741@0.0.1366.741" timestamp="1588810061151" />
-    <state width="1320" height="310" key="GridCell.Tab.0.left" timestamp="1588810061151">
+    <state width="1320" height="310" key="GridCell.Tab.0.center/0.0.1366.741@0.0.1366.741" timestamp="1588810754272" />
+    <state width="1320" height="310" key="GridCell.Tab.0.left" timestamp="1588810754272">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
-    <state width="1320" height="310" key="GridCell.Tab.0.left/0.0.1366.741@0.0.1366.741" timestamp="1588810061151" />
-    <state width="1320" height="310" key="GridCell.Tab.0.right" timestamp="1588810061151">
+    <state width="1320" height="310" key="GridCell.Tab.0.left/0.0.1366.741@0.0.1366.741" timestamp="1588810754272" />
+    <state width="1320" height="310" key="GridCell.Tab.0.right" timestamp="1588810754273">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
-    <state width="1320" height="310" key="GridCell.Tab.0.right/0.0.1366.741@0.0.1366.741" timestamp="1588810061151" />
+    <state width="1320" height="310" key="GridCell.Tab.0.right/0.0.1366.741@0.0.1366.741" timestamp="1588810754273" />
   </component>
 </project>
