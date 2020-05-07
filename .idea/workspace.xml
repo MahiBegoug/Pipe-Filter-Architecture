@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab8017bc-08c6-4e8c-9c83-b0ccbc252f5d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bY2XulZR7wOI6P5AKBxuCMFIyZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="inlay.hints" />
+  </component>
+  <component name="RunManager" selected="Application.MainTrace">
+    <configuration name="MainCalcul" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calcul.MainCalcul" />
+      <module name="AlogTp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Calcul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gui.MainGUI" />
+      <module name="AlogTp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTrace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trace.MainTrace" />
+      <module name="AlogTp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trace.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainTrace" />
+        <item itemvalue="Application.MainGUI" />
+        <item itemvalue="Application.MainCalcul" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab8017bc-08c6-4e8c-9c83-b0ccbc252f5d" name="Default Changelist" comment="" />
+      <created>1588794749700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588794749700</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1320" height="310" key="GridCell.Tab.0.bottom" timestamp="1588810061152">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="310" key="GridCell.Tab.0.bottom/0.0.1366.741@0.0.1366.741" timestamp="1588810061152" />
+    <state width="1320" height="310" key="GridCell.Tab.0.center" timestamp="1588810061151">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="310" key="GridCell.Tab.0.center/0.0.1366.741@0.0.1366.741" timestamp="1588810061151" />
+    <state width="1320" height="310" key="GridCell.Tab.0.left" timestamp="1588810061151">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="310" key="GridCell.Tab.0.left/0.0.1366.741@0.0.1366.741" timestamp="1588810061151" />
+    <state width="1320" height="310" key="GridCell.Tab.0.right" timestamp="1588810061151">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="310" key="GridCell.Tab.0.right/0.0.1366.741@0.0.1366.741" timestamp="1588810061151" />
+  </component>
+</project>
